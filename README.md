@@ -1,5 +1,5 @@
 # Word2Vec-SkipGram
-Word2Vec algorithm implementation using Skipgram in PyTorch. [Dataset](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
+Word2Vec algorithm implementation using Skipgram in PyTorch. [Dataset](https://drive.google.com/open?id=1fCHRH3hAzofBzRyjuFJKsLu25fA2svOE)
 
 **Word2Vec** algorithm can be implemented in two ways **CBOW** and **Skip-Gram**. [image](./word2vec_architectures.png)
 
